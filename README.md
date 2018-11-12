@@ -9,3 +9,7 @@ Ipython Notebook for [Soft max and cross-Entropy](https://github.com/souvikb07/P
 
 ## Day 3 | Gradient Descent
 Learned about gradient Descent and continuous perceptron. Ipython Notebook [Gradient Descent](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_2/GradientDescent.ipynb)
+
+## Day 4 | First Neural Network
+Learned about the Neural Network Architure, Backpropogation, made my first neural network, Regularization and different activation function. The thing about neural network is that it is a combination of linear models and the maths behind every function is beautiful.
+Ipython Notebook for [Student Admissions](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_2/StudentAdmissions.ipynb)
