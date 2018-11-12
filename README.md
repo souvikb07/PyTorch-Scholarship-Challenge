@@ -8,4 +8,4 @@ Learned Error Function, Log-Loss Error Function and cross entropy. Among these c
 Ipython Notebook for [Soft max and cross-Entropy](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_2/Coding%20Softmax%20and%20Cross-entropy.ipynb) and [Perceptron](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_2/Perceptrons.ipynb)
 
 ## Day 3 | Gradient Descent
-Learned about gradient Descent and continuous perceptron
+Learned about gradient Descent and continuous perceptron. Ipython Notebook [Gradient Descent](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_2/GradientDescent.ipynb)
