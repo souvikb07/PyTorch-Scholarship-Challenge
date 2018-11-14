@@ -13,3 +13,7 @@ Learned about gradient Descent and continuous perceptron. Ipython Notebook [Grad
 ## Day 4 | First Neural Network
 Learned about the Neural Network Architure, Backpropogation, made my first neural network, Regularization and different activation function. The thing about neural network is that it is a combination of linear models and the maths behind every function is beautiful.
 Ipython Notebook for [Student Admissions](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_2/StudentAdmissions.ipynb)
+
+## Day 5 | Neural Network using Pytorch
+Build a neural network using Pytorch.
+Ipython Notebook for [Neural Network](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_4/Part%201%20-%20Tensors%20in%20PyTorch.ipynb)
