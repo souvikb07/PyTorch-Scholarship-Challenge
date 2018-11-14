@@ -17,3 +17,6 @@ Ipython Notebook for [Student Admissions](https://github.com/souvikb07/PyTorch-S
 ## Day 5 | Neural Network using Pytorch
 Build a neural network using Pytorch.
 Ipython Notebook for [Neural Network](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_4/Part%201%20-%20Tensors%20in%20PyTorch.ipynb)
+
+## Day 6 | Neural Network Architectures
+Build Neural Network Architecture and trained the model. Ipython notebook for [Neural Network](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_4/Part%202%20-%20Neural%20Networks%20in%20PyTorch.ipynb) and [Training Neural Networks]().
