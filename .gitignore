@@ -106,5 +106,4 @@ venv.bak/
 # Data
 MNIST_data/
 F_MNIST_data/
-test/
-train/
+Cat_Dog_data
