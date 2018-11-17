@@ -103,5 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# MNIST data
+# Data
 MNIST_data/
+F_MNIST_data/
+test/
+train/
