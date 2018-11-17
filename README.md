@@ -22,3 +22,5 @@ Ipython Notebook for [Neural Network](https://github.com/souvikb07/PyTorch-Schol
 Build Neural Network Architecture and trained the model. Ipython notebook for [Neural Network](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_4/Part%202%20-%20Neural%20Networks%20in%20PyTorch.ipynb) and [Training Neural Networks.](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_4/Part%203%20-%20Training%20Neural%20Networks.ipynb)
 
 ## Day 7 | Classifying Fashion MNIST
+
+## Day 8 | Dogs vs Cats
