@@ -22,5 +22,12 @@ Ipython Notebook for [Neural Network](https://github.com/souvikb07/PyTorch-Schol
 Build Neural Network Architecture and trained the model. Ipython notebook for [Neural Network](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_4/Part%202%20-%20Neural%20Networks%20in%20PyTorch.ipynb) and [Training Neural Networks.](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_4/Part%203%20-%20Training%20Neural%20Networks.ipynb)
 
 ## Day 7 | Classifying Fashion MNIST
+Build a simple Neural Network from scratch to detect the type of clothes. I got to know that with very simple model you can also get goot accuracy.
+Ipython Notebook of  [Fashion MNIST](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_4/Part%204%20-%20Fashion-MNIST.ipynb)
 
 ## Day 8 | Dogs vs Cats
+Build a simple Neural Network from scratch to detect that the image is of cat or dog. Learned about Inference and Validation and how to save and load a trained model. Also learned how to load image files on pytorch. 
+Ipython Notebook of [Dogs vs Cats](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_4/Part%206%20-%20Saving%20and%20Loading%20Models.ipynb), [Inference and Validation](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_4/Part%205%20-%20Inference%20and%20Validation.ipynb), [Loadig Image Data.](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_4/Part%207%20-%20Loading%20Image%20Data.ipynb)
+
+## Day 9 | Transfer Learning
+Learned how to use pre-trained networks to solved challenging problems in computer vision. Used *densenet121* model to train a model to find the difference between a cat and a dog. Ipython Notebook of [Transfer Learning.](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_4/Part_8_Transfer_Learning.ipynb)
