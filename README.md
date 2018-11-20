@@ -31,3 +31,7 @@ Ipython Notebook of [Dogs vs Cats](https://github.com/souvikb07/PyTorch-Scholars
 
 ## Day 9 | Transfer Learning
 Learned how to use pre-trained networks to solved challenging problems in computer vision. Used *densenet121* model to train a model to find the difference between a cat and a dog. Ipython Notebook of [Transfer Learning.](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_4/Part_8_Transfer_Learning.ipynb)
+
+## Day 10 | MLP Classification
+Build a model to recognise numbers using MLP Classification.
+IPython Notebook of [MLP](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_5/mnist_mlp.ipynb)
