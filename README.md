@@ -39,3 +39,6 @@ IPython Notebook of [MLP](https://github.com/souvikb07/PyTorch-Scholarship-Chall
 ## Day 11 | MLP with validation
 Build MLP with validation, learned about local connectivity, filters and the convolutional layer.
 IPython Notebook of [MLP with validation](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_5/mnist_mlp_with_validation.ipynb)
+
+# Day 12 | Sobel Operator and Convolution Layer
+Created some sobel filters and learned the importance of filters. IPython Notebook of [Sobel Filter](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_5/convolution_visualization/custom_filters.ipynb)
