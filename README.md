@@ -42,3 +42,10 @@ IPython Notebook of [MLP with validation](https://github.com/souvikb07/PyTorch-S
 
 # Day 12 | Sobel Operator and Convolution Layer
 Created some sobel filters and learned the importance of filters. IPython Notebook of [Sobel Filter](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_5/convolution_visualization/custom_filters.ipynb)
+
+# Day 13 | CNNs for Image Classification
+Learned how CNN is used for image classification.
+
+# Day 14 | Build CNN model using SIFAR data
+Build a 3 conovlution layers CNN model to predict 10 lasses, and learned how image augmentation helps in minimizing overfitting.
+IPython Notebook of [CIFAR CNN](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_5/cifar-cnn/cifar10_cnn.ipynb), [Augmentation](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_5/cifar-cnn/cifar10_cnn_augmentation.ipynb)
