@@ -52,3 +52,7 @@ IPython Notebook of [CIFAR CNN](https://github.com/souvikb07/PyTorch-Scholarship
 
 # Day 15 | Style Transfer
 Learned about the style transfer technique using CNN and how gram matrix style transfer works.
+
+# Day 16 | VGG19 Model
+Build a style transfer model using VGG19 network.
+IPython notebook of [Style Transfer](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_6/Style_Transfer.ipynb)
