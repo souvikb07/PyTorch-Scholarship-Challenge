@@ -56,3 +56,6 @@ Learned about the style transfer technique using CNN and how gram matrix style t
 # Day 16 | VGG19 Model
 Build a style transfer model using VGG19 network.
 IPython notebook of [Style Transfer](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_6/Style_Transfer.ipynb)
+
+# Day 17 | Recurrent Neural Networks
+Learned about Recurrent Neural Networks from [CS231n](http://cs231n.stanford.edu/)
