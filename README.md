@@ -40,22 +40,28 @@ IPython Notebook of [MLP](https://github.com/souvikb07/PyTorch-Scholarship-Chall
 Build MLP with validation, learned about local connectivity, filters and the convolutional layer.
 IPython Notebook of [MLP with validation](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_5/mnist_mlp_with_validation.ipynb)
 
-# Day 12 | Sobel Operator and Convolution Layer
+## Day 12 | Sobel Operator and Convolution Layer
 Created some sobel filters and learned the importance of filters. IPython Notebook of [Sobel Filter](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_5/convolution_visualization/custom_filters.ipynb)
 
-# Day 13 | CNNs for Image Classification
+## Day 13 | CNNs for Image Classification
 Learned how CNN is used for image classification.
 
-# Day 14 | Build CNN model using SIFAR data
+## Day 14 | Build CNN model using SIFAR data
 Build a 3 conovlution layers CNN model to predict 10 lasses, and learned how image augmentation helps in minimizing overfitting.
 IPython Notebook of [CIFAR CNN](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_5/cifar-cnn/cifar10_cnn.ipynb), [Augmentation](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_5/cifar-cnn/cifar10_cnn_augmentation.ipynb)
 
-# Day 15 | Style Transfer
+## Day 15 | Style Transfer
 Learned about the style transfer technique using CNN and how gram matrix style transfer works.
 
-# Day 16 | VGG19 Model
+## Day 16 | VGG19 Model
 Build a style transfer model using VGG19 network.
 IPython notebook of [Style Transfer](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_6/Style_Transfer.ipynb)
 
-# Day 17 | Recurrent Neural Networks
+## Day 17 | Recurrent Neural Networks
 Learned about Recurrent Neural Networks from [CS231n](http://cs231n.stanford.edu/)
+
+## Day 18 | Google Cloud On Board India
+Attended the Google Cloud on board event where learned about the big data tools and how to implement real time analytics on Google Cloud. Attended the session on Auto ML and learned about the Vission API and NLP Api by google.
+
+## Day 19 | LSTM
+Learned about the Architecture of LSTM.
