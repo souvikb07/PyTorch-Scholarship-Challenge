@@ -65,3 +65,9 @@ Attended the Google Cloud on board event where learned about the big data tools 
 
 ## Day 19 | LSTM
 Learned about the Architecture of LSTM.
+
+## Day 20 | GRU
+Learned about GRU from  [Michael Guerzhoy's post](http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf)
+
+## Day 21 | Time Series Prediction
+Learned about time seris predictions.
