@@ -71,3 +71,9 @@ Learned about GRU from  [Michael Guerzhoy's post](http://www.cs.toronto.edu/~gue
 
 ## Day 21 | Time Series Prediction
 Learned about time seris predictions.
+
+## Day 22 | Characterwise RNN
+Learned the characterwise RNN model.
+
+## Day 23 | Character-Level RNN
+Building a RNN model to predict novel phrases.
