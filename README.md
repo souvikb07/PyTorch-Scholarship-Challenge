@@ -71,9 +71,14 @@ Learned about GRU from  [Michael Guerzhoy's post](http://www.cs.toronto.edu/~gue
 
 ## Day 21 | Time Series Prediction
 Learned about time seris predictions.
+IPython notebook of [Simple RNN](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_7/simple-snn/Simple_RNN.ipynb)
 
 ## Day 22 | Characterwise RNN
 Learned the characterwise RNN model.
 
 ## Day 23 | Character-Level RNN
 Building a RNN model to predict novel phrases.
+
+## Day 24 | Character-Level RNN
+Completed the model.
+IPython notebook of [Char RNN](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_7/char-rnn/Character_Level_RNN.ipynb)
