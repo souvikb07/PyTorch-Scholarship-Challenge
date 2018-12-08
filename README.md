@@ -82,3 +82,6 @@ Building a RNN model to predict novel phrases.
 ## Day 24 | Character-Level RNN
 Completed the model.
 IPython notebook of [Char RNN](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/blob/master/Lesson_7/char-rnn/Character_Level_RNN.ipynb)
+
+## Day 25-29 | Sentiment Prediction with RNN
+Build a project on IMDB data.
