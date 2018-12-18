@@ -88,3 +88,6 @@ Build a project on IMDB data.
 
 ## Day 30-36 | Image Classifier Project
 Working on the final Project.
+
+## Day 37-39 | Image Classifier Project
+Work in progress
