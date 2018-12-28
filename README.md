@@ -91,3 +91,6 @@ Working on the final Project.
 
 ## Day 37-39 | Image Classifier Project
 Work in progress
+
+# Day 40-49 | Pytorch Scholarship Finished
+Finished the project, completed a case study on Time series analysis.
