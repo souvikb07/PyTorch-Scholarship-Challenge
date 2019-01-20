@@ -85,3 +85,12 @@ IPython notebook of [Char RNN](https://github.com/souvikb07/PyTorch-Scholarship-
 
 ## Day 25-29 | Sentiment Prediction with RNN
 Build a project on IMDB data.
+
+## Day 30-36 | Image Classifier Project
+Working on the final Project.
+
+## Day 37-39 | Image Classifier Project
+Work in progress
+
+# Day 40-49 | Pytorch Scholarship Finished
+Finished the project, completed a case study on Time series analysis.
