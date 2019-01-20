@@ -96,4 +96,4 @@ Working on the final Project.
 Work in progress
 
 # Day 40-49 | Pytorch Scholarship Finished
-Finished the project, completed a case study on Time series analysis.
+[Finished the project](https://github.com/souvikb07/PyTorch-Scholarship-Challenge/tree/master/Lab%20Project), completed a case study on Time series analysis.
